@@ -2,7 +2,7 @@
 /** youc an change URL when you have numbe in your account.
  * First add number and than change its url
  * if successed will return Number but it has array Gotcha!
-*
+ *
  * These simple script for people who getting problem in using didx.net as they were not willing to 
  * updated their api, so I have provide this to public as they may help. It also transfer data in json
  * =============================================================
